@@ -6,7 +6,6 @@
 <li>Tools: Intelij and MySQL Workbench</li>
 <li>Technologies: Java and SQL</li>
 </ul>
-<br>
 To run this project:
 <ol>
 <li>Setup a new MySQL Connection, localhost:3306, username: root, password: root</li>
